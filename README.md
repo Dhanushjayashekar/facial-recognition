@@ -1,4 +1,4 @@
-# Lock-Unlock-Laptop/PC-Screen-Using-Face-Recognition
+# Lock-Unlock-PC-Screen-Using-Face-Recognition
 ## Face ID-like feature for windows.
 #### Kindly note that this program cannot be used as a serious authentication system for your laptop/PC. This has been designed only for general purposes. 
 
@@ -34,5 +34,3 @@ Congrats!! Works has been done.
 *) Now you just have to check by locking your device.
 
 Comments has been added in scripts to understand codes.
-
-### Improvements will be appreciated. Thank you in advance.
